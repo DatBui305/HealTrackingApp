@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBDs2I99u_wvBtTFMKIf9fNySDGky8AJPw',
-    appId: '1:882116132375:android:aec8d974016b09da902652',
-    messagingSenderId: '882116132375',
-    projectId: 'healthtrackingapp-a8aa8',
-    storageBucket: 'healthtrackingapp-a8aa8.appspot.com',
+    apiKey: '',
+    appId: '1::android:',
+    messagingSenderId: '',
+    projectId: 'healthtrackingapp-',
+    storageBucket: 'healthtrackingapp-.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBDgNXRdKf7o8n7yS9R9Bi6oVpBLVteA2Q',
-    appId: '1:882116132375:ios:95e3bfe3c0b8a024902652',
-    messagingSenderId: '882116132375',
-    projectId: 'healthtrackingapp-a8aa8',
-    storageBucket: 'healthtrackingapp-a8aa8.appspot.com',
+    apiKey: '',
+    appId: '1::ios:',
+    messagingSenderId: '',
+    projectId: 'healthtrackingapp-',
+    storageBucket: 'healthtrackingapp-.appspot.com',
     iosBundleId: 'com.example.app3',
   );
 
