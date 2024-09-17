@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
-    appId: '1:882116132375:android:',
+    appId: '1::android:',
     messagingSenderId: '',
     projectId: 'healthtrackingapp-',
     storageBucket: 'healthtrackingapp-..com',
